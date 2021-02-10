@@ -53,7 +53,7 @@ ul {
   color: var(--blue-text);
 }
 
-.adress-header {
+.adress-header a {
   color: var(--grey-text);
   font-family: 'Roboto', sans-serif;
   font-style: normal;
@@ -61,6 +61,13 @@ ul {
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.02em;
+}
+
+.adress-header .link:hover,
+.adress-header .link:focus {
+  color: var(--blue-text);
+  background: var(--white-text);
+  text-decoration: underline;
 }
 
 .title-webstudio {
