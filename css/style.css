@@ -212,3 +212,44 @@ ul {
   letter-spacing: 0.03em;
   color: var(--grey-text-op60);
 }
+
+.nav-portfolio button {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: var(--black-text);
+  background-color: var(--back-white-gray);
+}
+
+.nav-portfolio .link:hover,
+.nav-portfolio .link:focus {
+  color: var(--white-text);
+  background: var(--blue-text);
+  text-decoration: underline;
+}
+
+.projects-portfolio {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 36px;
+  letter-spacing: 0.06em;
+  color: var(--black-text);
+  background-color: var(--back-white-gray);
+}
+
+.portfolio-categories {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+  color: var(--grey-text);
+  background-color: var(--back-white-gray);
+}
