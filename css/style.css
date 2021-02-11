@@ -20,6 +20,14 @@
   --back-potfolio-img: rgba(238, 238, 238, 1);
 }
 
+.body {
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
 header,
 section,
 footer {
@@ -36,8 +44,6 @@ ul {
 
 .header-nav a {
   color: var(--black-text);
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
@@ -57,8 +63,6 @@ ul {
 
 .adress-header a {
   color: var(--grey-text);
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
@@ -74,8 +78,7 @@ ul {
 
 .title-webstudio {
   font-family: 'Raleway', sans-serif;
-  font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 26px;
   line-height: 31px;
   color: var(--black-text);
@@ -90,8 +93,6 @@ ul {
 }
 
 .title-top {
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
   font-weight: 900;
   font-size: 44px;
   line-height: 60px;
@@ -105,6 +106,7 @@ ul {
   border: none;
   background-color: var(--blue-text);
   color: var(--white-text);
+  font-weight: 700;
 }
 
 .section-directions {
@@ -112,8 +114,7 @@ ul {
 }
 
 .advantages {
-  font-family: 'Roboto', sans-serif;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.03em;
@@ -122,9 +123,7 @@ ul {
 }
 
 .description-advantages {
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 14px;
   line-height: 24px;
   letter-spacing: 0.03em;
@@ -132,8 +131,7 @@ ul {
 }
 
 .title {
-  font-family: 'Roboto', sans-serif;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 36px;
   line-height: 42px;
   text-align: center;
@@ -149,8 +147,6 @@ ul {
 }
 
 .specialists {
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 19px;
@@ -160,9 +156,7 @@ ul {
 }
 
 .profession {
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 16px;
   line-height: 19px;
   text-align: center;
@@ -176,9 +170,7 @@ ul {
 }
 
 .footer-adress {
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 14px;
   line-height: 24px;
   letter-spacing: 0.03em;
@@ -187,8 +179,7 @@ ul {
 
 .footer-webstudio {
   font-family: 'Raleway', sans-serif;
-  font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 26px;
   line-height: 31px;
   letter-spacing: 0.03em;
@@ -196,9 +187,7 @@ ul {
 }
 
 .footer-mail {
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 14px;
   line-height: 24px;
   letter-spacing: 0.03em;
@@ -206,9 +195,7 @@ ul {
 }
 
 .footer-tel {
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 14px;
   line-height: 24px;
   letter-spacing: 0.03em;
@@ -216,8 +203,6 @@ ul {
 }
 
 .nav-portfolio button {
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 26px;
@@ -235,9 +220,7 @@ ul {
 }
 
 .projects-portfolio {
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 18px;
   line-height: 36px;
   letter-spacing: 0.06em;
@@ -246,9 +229,7 @@ ul {
 }
 
 .portfolio-categories {
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 16px;
   line-height: 30px;
   letter-spacing: 0.03em;
