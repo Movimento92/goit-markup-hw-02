@@ -62,6 +62,7 @@ ul {
 }
 
 .adress-header a {
+  font-style: normal;
   color: var(--grey-text);
   font-weight: 500;
   font-size: 14px;
@@ -170,6 +171,7 @@ ul {
 }
 
 .footer-adress {
+  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
@@ -187,6 +189,7 @@ ul {
 }
 
 .footer-mail {
+  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
@@ -195,6 +198,7 @@ ul {
 }
 
 .footer-tel {
+  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
